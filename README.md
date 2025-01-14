@@ -4,5 +4,4 @@ Completed the Power BI for Beginners: Build your First Report Coursera Course. T
 Link to dashboard: https://app.powerbi.com/groups/me/reports/4616f169-a693-4ca7-abfa-b28ab9059873/1d79836d4beb7be92670?experience=power-bi
 https://github.com/KennethColeDavis/Power-BI-for-Beginners-Build-your-First-Report/blob/main/Cookie%20Bliss.jpeg?raw=true
 
-https://github.com/KennethColeDavis/Power-BI-for-Beginners-Build-your-First-Report/blob/main/Cookie%20Bliss.jpeg?raw=true![image](https://github.com/user-attachments/assets/aa593d48-f72c-4ace-ba1f-3256709ae6e7)
 
